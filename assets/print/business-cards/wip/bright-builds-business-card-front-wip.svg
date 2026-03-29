@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.5in"
+   height="2in"
+   viewBox="0 0 1050 600"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="2024-05--07 wipBusinessCardFront.svg"
+   inkscape:export-filename="2024-05--07 wipBusinessCardFront.pdf"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.9578167"
+     inkscape:cx="139.95181"
+     inkscape:cy="120.28705"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#2b0b45ff" />
+  <defs
+     id="defs1">
+    <rect
+       x="28.603289"
+       y="75.083634"
+       width="157.31809"
+       height="35.243338"
+       id="rect3" />
+    <rect
+       x="39.840296"
+       y="36.264885"
+       width="135.35485"
+       height="30.135609"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="image-rendering:auto">
+    <rect
+       style="fill:#1c0a38;fill-opacity:1;stroke:#7f2aff;stroke-width:3.125;image-rendering:auto"
+       id="rect2"
+       width="1125"
+       height="675"
+       x="-35.9375"
+       y="-35.9375"
+       inkscape:label="background" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="left content"
+       transform="translate(0,-38.72345)">
+      <text
+         xml:space="preserve"
+         transform="matrix(3.1248462,0,0,3.125,52.066675,25.952332)"
+         id="text1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#7f2aff;fill-opacity:1;stroke-width:1.00002;stroke-dasharray:none;image-rendering:auto"
+         inkscape:label="Peter Ryszkiewicz"><tspan
+           x="39.839844"
+           y="53.312466"
+           id="tspan3">Peter Ryszkiewicz</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.3334px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7f2aff;fill-opacity:1;stroke:#7f2aff;stroke-width:3.125;image-rendering:auto"
+         x="177.48776"
+         y="246.59019"
+         id="text4"
+         inkscape:label="title"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:41.6667px;font-family:Futura;-inkscape-font-specification:'Futura, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7f2aff;fill-opacity:1;stroke:none;stroke-width:3.125"
+           x="177.48776"
+           y="246.59019">Engineer/Owner</tspan></text>
+      <rect
+         style="fill:#7f2aff;fill-opacity:1;stroke:none;stroke-width:0.786156;stroke-dasharray:none;image-rendering:auto"
+         id="rect4"
+         width="378.10382"
+         height="6"
+         x="181.23106"
+         y="270"
+         inkscape:label="divider" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7f2aff;fill-opacity:1;stroke-width:3.12499;image-rendering:auto"
+         x="175.99612"
+         y="515.87463"
+         id="text2"
+         inkscape:label="Bright Builds LLC"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7f2aff;fill-opacity:1;stroke-width:3.12499"
+           x="175.99612"
+           y="515.87463">Bright Builds LLC</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:41.6666px;font-family:Futura;-inkscape-font-specification:'Futura, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7f2aff;fill-opacity:1;stroke:none;stroke-width:3.125;stroke-dasharray:none;image-rendering:auto"
+         x="179.67448"
+         y="341.76511"
+         id="text5"
+         inkscape:label="phone number email website"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:41.6666px;font-family:Futura;-inkscape-font-specification:'Futura, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7f2aff;fill-opacity:1;stroke-width:3.125"
+           x="179.67448"
+           y="341.76511">(708) 407-9575‬</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:41.6666px;font-family:Futura;-inkscape-font-specification:'Futura, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7f2aff;fill-opacity:1;stroke-width:3.125"
+           x="179.67448"
+           y="393.84836"
+           id="tspan6">peter@brightbuilds.us</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:41.6666px;font-family:Futura;-inkscape-font-specification:'Futura, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7f2aff;fill-opacity:1;stroke-width:3.125"
+           x="179.67448"
+           y="445.93161"
+           id="tspan7">www.brightbuilds.us</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="right logo"
+       style="image-rendering:auto"
+       transform="translate(0,-12.674996)">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="logo"
+         id="g6"
+         transform="matrix(1.500186,0,0,1.5001864,583.20734,87.587884)"
+         style="image-rendering:auto">
+        <path
+           d="m 178.4183,224.00886 18.8976,-18.8976 a 37.795276,37.795276 0 0 0 -13.4705,-62.1201 l 13.4705,-13.47053 A 37.795276,37.795276 0 0 0 170.5906,65 H 113.8977 L 95,83.8977 v 151.18116 h 56.693 a 37.795276,37.795276 0 0 0 26.7253,-11.07 z"
+           style="fill:#7f2aff;fill-opacity:1;stroke:none"
+           id="path6" />
+        <path
+           d="m 170.5906,216.18116 a 37.795276,37.795276 0 0 0 15.5504,-3.3472 37.795276,37.795276 0 0 0 -34.448,-53.3457 37.79528,37.79528 0 0 0 0,-75.59056 h -37.7953 v 132.28346 z"
+           style="fill:#1c0a38;fill-opacity:1;stroke:#000000"
+           id="path5" />
+      </g>
+    </g>
+  </g>
+</svg>
