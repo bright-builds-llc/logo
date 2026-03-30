@@ -7,6 +7,100 @@
 
 This repository stores the Bright Builds logo asset library imported from the original source folder, organized for straightforward reuse across product, print, and fabrication workflows.
 
+## At a Glance
+
+The gallery below highlights the repo's most useful preview-ready assets for quick scanning on GitHub.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="assets/logo/primary/bright-builds-logo.png">
+        <img src="assets/logo/primary/bright-builds-logo.png" alt="Primary Bright Builds logo" width="180">
+      </a>
+      <br>
+      <strong>Primary Logo</strong>
+      <br>
+      <sub><a href="assets/logo/primary/bright-builds-logo.png"><code>assets/logo/primary/bright-builds-logo.png</code></a></sub>
+    </td>
+    <td align="center">
+      <a href="assets/logo/legacy/bright-builds-logo-v2-cropped.png">
+        <img src="assets/logo/legacy/bright-builds-logo-v2-cropped.png" alt="Legacy Bright Builds square crop" width="180">
+      </a>
+      <br>
+      <strong>Legacy Square Crop</strong>
+      <br>
+      <sub><a href="assets/logo/legacy/bright-builds-logo-v2-cropped.png"><code>assets/logo/legacy/bright-builds-logo-v2-cropped.png</code></a></sub>
+    </td>
+    <td align="center">
+      <a href="assets/supporting/frame/bright-builds-frame.png">
+        <img src="assets/supporting/frame/bright-builds-frame.png" alt="Bright Builds supporting frame asset" width="180">
+      </a>
+      <br>
+      <strong>Supporting Frame</strong>
+      <br>
+      <sub><a href="assets/supporting/frame/bright-builds-frame.png"><code>assets/supporting/frame/bright-builds-frame.png</code></a></sub>
+    </td>
+  </tr>
+</table>
+
+## Legacy Variants
+
+These earlier logo treatments remain available for reference and compatibility.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="assets/logo/legacy/bright-builds-logo-v1.svg">
+        <img src="assets/logo/legacy/bright-builds-logo-v1.svg" alt="Legacy Bright Builds logo v1" width="220">
+      </a>
+      <br>
+      <strong>Legacy Logo v1</strong>
+      <br>
+      <sub><a href="assets/logo/legacy/bright-builds-logo-v1.svg"><code>assets/logo/legacy/bright-builds-logo-v1.svg</code></a></sub>
+    </td>
+    <td align="center">
+      <a href="assets/logo/legacy/bright-builds-logo-v2.png">
+        <img src="assets/logo/legacy/bright-builds-logo-v2.png" alt="Legacy Bright Builds logo v2" width="220">
+      </a>
+      <br>
+      <strong>Legacy Logo v2</strong>
+      <br>
+      <sub><a href="assets/logo/legacy/bright-builds-logo-v2.png"><code>assets/logo/legacy/bright-builds-logo-v2.png</code></a></sub>
+    </td>
+  </tr>
+</table>
+
+## WIP Print Assets
+
+These business-card previews are intentionally shown as works in progress and should not be treated as canonical brand assets.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="assets/print/business-cards/wip/bright-builds-business-card-front-wip.svg">
+        <img src="assets/print/business-cards/wip/bright-builds-business-card-front-wip.svg" alt="Bright Builds business card front work in progress" width="260">
+      </a>
+      <br>
+      <strong>Business Card Front (WIP)</strong>
+      <br>
+      <sub><a href="assets/print/business-cards/wip/bright-builds-business-card-front-wip.svg"><code>assets/print/business-cards/wip/bright-builds-business-card-front-wip.svg</code></a></sub>
+      <br>
+      <sub><a href="assets/print/business-cards/wip/bright-builds-business-card-front-wip.pdf">PDF export</a></sub>
+    </td>
+    <td align="center">
+      <a href="assets/print/business-cards/wip/bright-builds-business-card-back-wip.png">
+        <img src="assets/print/business-cards/wip/bright-builds-business-card-back-wip.png" alt="Bright Builds business card back work in progress" width="260">
+      </a>
+      <br>
+      <strong>Business Card Back (WIP)</strong>
+      <br>
+      <sub><a href="assets/print/business-cards/wip/bright-builds-business-card-back-wip.png"><code>assets/print/business-cards/wip/bright-builds-business-card-back-wip.png</code></a></sub>
+      <br>
+      <sub><a href="assets/print/business-cards/wip/bright-builds-business-card-back-wip.pdf">PDF export</a></sub>
+    </td>
+  </tr>
+</table>
+
 ## Canonical Assets
 
 The default logo set is the `logov3` family:
