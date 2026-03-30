@@ -110,6 +110,36 @@ The default logo set is the `logov3` family:
 
 Legacy logo variants remain available under `assets/logo/legacy/` for reference and compatibility.
 
+## Logo Colors
+
+This section documents the main colors used in the official logo SVGs and separates visible logo artwork from editor metadata that also appears in the files.
+
+### Main Palette
+
+| Role | Hex | Where it appears | Notes |
+| --- | --- | --- | --- |
+| Dark primary fill | `#1c0a38` | Primary logo SVG and legacy v2 SVG | Main dark body fill in the current two-color logo construction |
+| Bright accent purple | `#7f2aff` | Primary logo SVG and legacy v2 SVG | Accent purple used for the highlighted logo form |
+| Legacy outline / scaffold | `#000000` | Primary logo SVG, legacy v2 SVG, legacy v1 SVG | Present as stroke code in the newer SVGs and as the full monochrome outline treatment in legacy v1 |
+
+### Per-file Mapping
+
+#### `assets/logo/primary/bright-builds-logo.svg`
+
+The current primary SVG uses `fill:#1c0a38` for the dark base shapes and `fill:#7f2aff` for the accent shape. The file also contains `stroke:#000000` in code, including a dark fill plus black stroke combination on one path, so black is present as a code-level outline value rather than the main visible palette.
+
+#### `assets/logo/legacy/bright-builds-logo-v2.svg`
+
+The legacy v2 SVG uses the same two-color structure as the primary SVG: `fill:#1c0a38` for the dark base and `fill:#7f2aff` for the bright accent. Like the primary SVG, it also includes `stroke:#000000` values in code, so black is documented as supporting outline/scaffold color rather than a primary brand fill.
+
+#### `assets/logo/legacy/bright-builds-logo-v1.svg`
+
+The legacy v1 SVG is a monochrome outline construction. Its logo paths are built with `fill:none;stroke:#000000`, so it should be treated as a legacy black outline variant rather than part of the main two-color purple palette.
+
+### Excluded / Non-palette SVG Values
+
+The logo SVG files also include `#ffffff` and `#d1d1d1`, but these appear in Inkscape page or editor metadata such as `pagecolor` and `inkscape:deskcolor`. They should not be treated as official logo colors. Supporting-frame and WIP business-card SVG colors are also out of scope for this logo color spec.
+
 ## Repository Layout
 
 ```text
