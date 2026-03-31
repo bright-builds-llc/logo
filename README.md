@@ -112,15 +112,15 @@ Legacy logo variants remain available under `assets/logo/legacy/` for reference 
 
 ## Logo Colors
 
-This section documents the main colors used in the official logo SVGs and separates visible logo artwork from editor metadata that also appears in the files.
+This section documents the main colors used in the official logo SVGs and separates visible logo artwork from editor metadata that also appears in the files. The swatches below are README-only helper assets, not source logo deliverables.
 
 ### Main Palette
 
-| Role | Hex | Where it appears | Notes |
-| --- | --- | --- | --- |
-| Dark primary fill | `#1c0a38` | Primary logo SVG and legacy v2 SVG | Main dark body fill in the current two-color logo construction |
-| Bright accent purple | `#7f2aff` | Primary logo SVG and legacy v2 SVG | Accent purple used for the highlighted logo form |
-| Legacy outline / scaffold | `#000000` | Primary logo SVG, legacy v2 SVG, legacy v1 SVG | Present as stroke code in the newer SVGs and as the full monochrome outline treatment in legacy v1 |
+| Role | Swatch | Hex | Where it appears | Notes |
+| --- | --- | --- | --- | --- |
+| Dark primary fill | <img src="docs/color-swatches/logo-color-dark-primary.svg" alt="Dark primary fill swatch" width="24" height="24"> | `#1c0a38` | Primary logo SVG and legacy v2 SVG | Main dark body fill in the current two-color logo construction |
+| Bright accent purple | <img src="docs/color-swatches/logo-color-accent-purple.svg" alt="Bright accent purple swatch" width="24" height="24"> | `#7f2aff` | Primary logo SVG and legacy v2 SVG | Accent purple used for the highlighted logo form |
+| Legacy outline / scaffold | <img src="docs/color-swatches/logo-color-legacy-outline.svg" alt="Legacy outline scaffold swatch" width="24" height="24"> | `#000000` | Primary logo SVG, legacy v2 SVG, legacy v1 SVG | Present as stroke code in the newer SVGs and as the full monochrome outline treatment in legacy v1 |
 
 ### Per-file Mapping
 
