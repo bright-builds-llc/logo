@@ -3,6 +3,7 @@
 <!-- coding-and-architecture-requirements-readme-badges:begin -->
 [![GitHub Stars](https://img.shields.io/github/stars/bright-builds-llc/logo)](https://github.com/bright-builds-llc/logo)
 [![License](https://img.shields.io/github/license/bright-builds-llc/logo?s)](./LICENSE)
+[![Bright Builds Requirements](https://raw.githubusercontent.com/bright-builds-llc/coding-and-architecture-requirements/main/public/badges/bright-builds.svg)](https://github.com/bright-builds-llc/coding-and-architecture-requirements)
 <!-- coding-and-architecture-requirements-readme-badges:end -->
 
 This repository stores the Bright Builds logo asset library imported from the original source folder, organized for straightforward reuse across product, print, and fabrication workflows.
