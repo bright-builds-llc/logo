@@ -1,10 +1,11 @@
 # Bright Builds Logo Assets
 
-<!-- coding-and-architecture-requirements-readme-badges:begin -->
+<!-- bright-builds-rules-readme-badges:begin -->
+<!-- Managed upstream by bright-builds-rules. If this badge block needs a fix, open an upstream PR or issue instead of editing the downstream managed block. Keep repo-local README content outside this managed badge block. -->
 [![GitHub Stars](https://img.shields.io/github/stars/bright-builds-llc/logo)](https://github.com/bright-builds-llc/logo)
-[![License](https://img.shields.io/github/license/bright-builds-llc/logo?s)](./LICENSE)
-[![Bright Builds Requirements](https://raw.githubusercontent.com/bright-builds-llc/coding-and-architecture-requirements/main/public/badges/bright-builds.svg)](https://github.com/bright-builds-llc/coding-and-architecture-requirements)
-<!-- coding-and-architecture-requirements-readme-badges:end -->
+[![License](https://img.shields.io/github/license/bright-builds-llc/logo?style=flat-square)](./LICENSE)
+[![Bright Builds: Rules](https://raw.githubusercontent.com/bright-builds-llc/bright-builds-rules/main/public/badges/bright-builds-rules-flat.svg)](https://github.com/bright-builds-llc/bright-builds-rules)
+<!-- bright-builds-rules-readme-badges:end -->
 
 This repository stores the Bright Builds logo asset library imported from the original source folder, organized for straightforward reuse across product, print, and fabrication workflows.
 
